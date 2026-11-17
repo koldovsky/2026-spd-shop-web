@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "extraKnownMarketplaces": {
+    "shop-harness": {
+      "source": {
+        "source": "github",
+        "repo": "koldovsky/shop-harness",
+        "ref": "v1.5.0"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "team-core@shop-harness": true,
+    "web@shop-harness": true
+  },
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  }
+}
