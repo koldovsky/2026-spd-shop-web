@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/hooks/*.log
