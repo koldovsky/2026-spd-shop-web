@@ -1,4 +1,4 @@
-# shop-web
+# 2026-spd-shop-web
 
 Next.js app and BFF of the demo **Shop** system (SPD «Team AI Engineering», Workshop 1).
 

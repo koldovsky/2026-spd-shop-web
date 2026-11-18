@@ -1,5 +1,5 @@
 <!-- owner: @koldovsky (web team) · why: instructions every agent needs in every session · review-by: 2027-02-19 -->
-# shop-web
+# 2026-spd-shop-web
 
 Next.js 16 app and BFF of the Shop system. Talks to shop-pricing (:8082) and shop-orders (:8081) by URL from env.
 
