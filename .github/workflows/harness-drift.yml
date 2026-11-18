@@ -2,4 +2,4 @@ name: harness drift
 on: [pull_request, workflow_dispatch]
 jobs:
   drift:
-    uses: koldovsky/shop-harness/.github/workflows/drift-check.yml@main
+    uses: koldovsky/2026-spd-shop-harness/.github/workflows/drift-check.yml@main
